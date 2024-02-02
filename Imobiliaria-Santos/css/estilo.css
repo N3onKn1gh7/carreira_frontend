@@ -97,7 +97,7 @@ h1 {
 }
 
 
-/*Definindo .seção4 e paragrafo*/
+/*Definindo .seção4*/
 
 .secao4 {
     background-color: #1d80c1;
@@ -123,6 +123,9 @@ h1 {
     text-align: left;
     font-size: 22px;
 }
+
+
+/*Definindo seção 6*/
 
 
 .secao6 {
@@ -157,5 +160,6 @@ h1 {
     border-radius: 5px;
     
 }
+
 
 
